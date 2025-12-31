@@ -18,7 +18,7 @@ All students need to follow this checklist to ensure that they are on track with
 |  Farah Harnisa Baharudin   ||:octocat:|
 |  Naim Salman   | |:octocat:|
 |  Navinneshsaan A/L Selvakumaran  ||https://github.com/Navinneshsaan/Final-Year-Project|
-|  Yew Gladys Ken-Yin  | |:octocat:|
+|  Yew Gladys Ken-Yin  | |https://github.com/Yewgladys/FYP1|
 
 
 
